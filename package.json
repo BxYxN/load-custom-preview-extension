@@ -3,7 +3,11 @@
     "displayName": "load-custom-preview",
     "description": "visualización de paginas espesificas",
     "version": "0.0.1",
-    "publisher": "n",
+    "publisher": "load-custom-preview",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BxYxN/load-custom-preview-extension"
+    },
     "engines": {
         "vscode": "^1.25.0"
     },
